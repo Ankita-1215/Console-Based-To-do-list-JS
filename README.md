@@ -33,15 +33,23 @@ Commands
 
   Preview
 
+
+  Home
+
   
   ![Home](To-do-1.png)
 
   
 
+
+Working
+
+
   
   ![Working](To-do-2.png)
 
   
+
 
   
   ![Working](To-do-3.png) 
