@@ -34,9 +34,9 @@ Commands
   Preview
 
   Project screenshots
-  (To-do-1.png)
-  (To-do-2.png)
-  (To-do-3.png) 
+  ![Home](assets/To-do-1.png)
+  ![Working](assets/To-do-2.png)
+  ![Working](assets/To-do-3.png) 
   
 
 Author
