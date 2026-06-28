@@ -26,16 +26,20 @@ Technologies Used
 
 Commands
 
-- `list` - Show all tasks
-- `add` - Add a new task
-- `delete` - Delete a task
-- `quit` - Exit the app
+`list` - Show all tasks
+`add` - Add a new task
+`remove` - Delete a task
+`quit` - Exit the app
 
   Preview
 
-  Project screenshots
+  
   ![Home](To-do-1.png)
+
+  
   ![Working](To-do-2.png)
+
+  
   ![Working](To-do-3.png) 
   
 
