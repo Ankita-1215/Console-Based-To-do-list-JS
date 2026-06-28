@@ -34,9 +34,9 @@ Commands
   Preview
 
   Project screenshots
-  To-do-1
-  To-do-2
-  To-do-3
+  (To-do-1.png)
+  (To-do-2.png)
+  (To-do-3.png) 
   
 
 Author
